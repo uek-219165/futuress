@@ -1,0 +1,11 @@
+@keyframes glow {
+  0% {
+    box-shadow: inset 0px 0px 50px rgba(2, 177, 240, 0.56);
+  }
+  50% {
+    box-shadow: inset 0px 0px 20px rgba(2, 177, 240, 0.56);
+  }
+  100% {
+    box-shadow: inset 0px 0px 50px rgba(2, 177, 240, 0.56);
+  }
+}

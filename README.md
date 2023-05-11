@@ -38,9 +38,9 @@
 
 ## PRZEKAZANIE PROJEKTU DO OCENY
 
-- [ ] Umieść na Moodle (każdy student, nie tylko kierownik zespołu projektowego):
-- [ ] link do zgłoszenia tematu projektu
-- [ ] link do repozytorium projektu
-- [ ] link do prototypu aplikacji
-- [ ] link do hostowanej aplikacji
-- [ ] repozytorium projektu w formacie ZIP
+- [x] Umieść na Moodle (każdy student, nie tylko kierownik zespołu projektowego):
+- [x] link do zgłoszenia tematu projektu
+- [x] link do repozytorium projektu
+- [x] link do prototypu aplikacji
+- [x] link do hostowanej aplikacji
+- [x] repozytorium projektu w formacie ZIP
